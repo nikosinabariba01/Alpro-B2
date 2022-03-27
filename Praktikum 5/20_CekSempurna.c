@@ -11,7 +11,7 @@ int main()
     // Kamus
     int N,i,sempurna;
     sempurna = 0;
-    printf("Masukkan bilangan yang menurutmu Sempurna? ");
+    printf("Masukkan bilangan = ");
     scanf("%d",&N);
 
     for(i=1; i<N ;i++){
