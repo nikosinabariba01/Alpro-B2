@@ -23,7 +23,7 @@ int main()
         }
     }
     if(checker == 1){
-        printf("Bilangan terserbut bukan bilangan prima");
+        printf("Bilangan tersebut bukan bilangan prima");
     }
     else{
         printf("Bilangan tersebut merupakan bilangan prima");
